@@ -163,7 +163,7 @@ nav ul li a:hover {
     position: relative;
     overflow: hidden;
 
-    background: url('images/fondo.jpg') center/cover no-repeat;
+    background: url('fondo.jpg') center/cover no-repeat;
     background-color: #0b1d3a;
     will-change: transform;
 }
